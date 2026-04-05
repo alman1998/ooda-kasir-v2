@@ -1,6 +1,7 @@
 # ☕ OODA Kasir — F&B Point of Sale System
 
 Sistem kasir modern untuk bisnis F&B dengan backend Google Sheets dan dashboard analitik berbasis OODA Loop.
+versi 2
 
 ## Tech Stack
 
